@@ -1,3 +1,2 @@
 game AI
 perfect information games:the players have no information hidden from each other and there is no element of chance in the game mechanics (such as by rolling dice or drawing cards from a shuffled deck).
-没有意义的一句话
